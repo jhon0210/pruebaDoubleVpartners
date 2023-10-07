@@ -1,9 +1,13 @@
-#Clone
-git clone https://github.com/jhon0210/pruebaDoubleVpartners.git
 
 # GithubSearch
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.3.
+
+## Clone repo
+```bash
+git clone git@github.com:jhon0210/pruebaDoubleVpartners.git
+yarn
+```
 
 ## Instalar Paquetes
 
